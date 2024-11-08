@@ -1,5 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+New Features
+This platform supports the following features:
+
+File Upload and Sharing: Users can upload files, manage access permissions, and share them across multiple cloud platforms (AWS S3).
+Multi-Tenancy: Implement multi-tenancy where different users have isolated file storage spaces, ensuring data security and privacy.
+Scalability: The platform is designed to be scalable, making use of cloud services to dynamically scale and handle large file uploads and downloads efficiently.
+
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
